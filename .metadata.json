@@ -1,0 +1,10 @@
+[
+  {
+    "package": "fmriqa",
+    "oncran": true
+  },
+  {
+    "package": "spant",
+    "oncran": true
+  }
+]
