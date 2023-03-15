@@ -1,10 +1,10 @@
 [
   {
-    "package": "spant",
+    "package": "fmriqa",
     "oncran": true
   },
   {
-    "package": "fmriqa",
+    "package": "spant",
     "oncran": true
   }
 ]
